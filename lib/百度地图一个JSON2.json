@@ -1,0 +1,3693 @@
+{
+	"place_info": {
+		"d_activity_gwj_section": "0-+",
+		"d_brand_id_section": "0-+",
+		"d_business_id": "",
+		"d_business_type": "shopping",
+		"d_cater_book_pc_section": "0-+",
+		"d_cater_book_wap_section": "0-+",
+		"d_cater_rating_section": "0-+",
+		"d_data_type": "shopping",
+		"d_discount2_section": "0-+",
+		"d_discount_section": "0-+",
+		"d_discount_tm2_section": "0-+",
+		"d_discount_tm_section": "0-+",
+		"d_dist": "0-+",
+		"d_filt_type_section": "0-+",
+		"d_free_section": "0-+",
+		"d_groupon_section": "0-+",
+		"d_groupon_type_section": "0-+",
+		"d_health_score_section": "0-+",
+		"d_hotel_book_pc_section": "0-+",
+		"d_hotel_book_wap_section": "0-+",
+		"d_hourly_day1_bookable_section": "0-+",
+		"d_hourly_day1_fullroom_section": "0-+",
+		"d_hourly_day1_price_section": "0-+",
+		"d_hourly_day2_bookable_section": "0-+",
+		"d_hourly_day2_fullroom_section": "0-+",
+		"d_hourly_day2_price_section": "0-+",
+		"d_hourly_day3_bookable_section": "0-+",
+		"d_hourly_day3_fullroom_section": "0-+",
+		"d_hourly_day3_price_section": "0-+",
+		"d_hourly_day4_bookable_section": "0-+",
+		"d_hourly_day4_fullroom_section": "0-+",
+		"d_hourly_day4_price_section": "0-+",
+		"d_hourly_day5_bookable_section": "0-+",
+		"d_hourly_day5_fullroom_section": "0-+",
+		"d_hourly_day5_price_section": "0-+",
+		"d_level_section": "0-+",
+		"d_lowprice_flag_section": "0-+",
+		"d_meishipaihao_section": "0-+",
+		"d_movie_book_section": "0-+",
+		"d_overall_rating_section": "0-+",
+		"d_price_section": "0-+",
+		"d_query_attr_type": "2",
+		"d_rebate_section": "0-+",
+		"d_sort_rule": "0",
+		"d_sort_type": "",
+		"d_spothot_section": "0-+",
+		"d_sub_type": "商场",
+		"d_support_imax_section": "0-+",
+		"d_tag_filter": "0",
+		"d_tag_info_list": "购物,购物中心",
+		"d_tag_section": "0-+",
+		"d_ticket_book_flag_section": "0-+",
+		"d_tonight_sale_flag_section": "0-+",
+		"d_total_score_section": "0-+",
+		"d_wise_price_section": "0-+",
+		"search_ext": [{
+			"title": "",
+			"wd": ""
+		}]
+	},
+	"content": [{
+		"acc_flag": 0,
+		"addr": "黑牛城道125号",
+		"address_norm": "[天津市(332)|CITY|1|NONE][河西区(1455)|AREA|1|NONE][友谊南路()|ROAD|1|NONE]",
+		"alias": ["新业广场",
+		"新业广场友谊路店"],
+		"area": 1455,
+		"area_name": "天津市河西区",
+		"biz_type": 0,
+		"brand_id": {
+			"id": "208951",
+			"name": "新业广场"
+		},
+		"catalogID": 325,
+		"cla": [[13,
+		"餐饮"],
+		[108,
+		"西式快餐"],
+		[325,
+		"赛百味"]],
+		"click_flag": 0,
+		"detail": 1,
+		"diPointX": 1304911280,
+		"diPointY": 470638872,
+		"di_tag": "购物中心 购物",
+		"dis": -1,
+		"dist2route": 0,
+		"dist2start": 0,
+		"ext": {
+			"detail_info": {
+				"app_cross_rcmd": {
+					"is_rcmd": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "app",
+					"transfer": 1
+				},
+				"areaid": "1455",
+				"brand_list": [{
+					"bid_list": ["1264276498919981055",
+					"16787133024906020138"],
+					"brand_real": 1,
+					"brandname": "肯德基",
+					"click": 21164,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=522991931,624574087&fm=58"
+				},
+				{
+					"bid_list": ["16661751625347803556"],
+					"brand_real": 1,
+					"brandname": "星巴克",
+					"click": 21105,
+					"logo": "http:\/\/t11.baidu.com\/it\/u=2054444227,187737141&fm=58"
+				},
+				{
+					"bid_list": ["12345593324719254409",
+					"179393500432552789"],
+					"brand_real": 1,
+					"brandname": "热风",
+					"click": 21024,
+					"logo": ""
+				},
+				{
+					"bid_list": ["17639748201439106443",
+					"9546281613408569880"],
+					"brand_real": 1,
+					"brandname": "艾格",
+					"click": 21007,
+					"logo": "http:\/\/t11.baidu.com\/it\/u=2540163544,1952710178&fm=58"
+				},
+				{
+					"bid_list": ["3719663319071502051",
+					"417669702252602400"],
+					"brand_real": 1,
+					"brandname": "LA CHAPELLE",
+					"click": 21007,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=2062450871,3133283078&fm=22"
+				},
+				{
+					"bid_list": ["6911724526579147962"],
+					"brand_real": 1,
+					"brandname": "安踏",
+					"click": 21002,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=734793759,1719176488&fm=58"
+				}],
+				"comment_num": "9",
+				"description_flag": 1,
+				"display_info_comment_label": {
+					"hotel": "",
+					"life": ""
+				},
+				"display_info_redu": "53890",
+				"environment_rating": "5.0",
+				"from_pds": "1",
+				"guoke_geo": {
+					"geo": "",
+					"src_type": "wanneng_touchuan",
+					"sub_src": "guoke",
+					"transfer": 1
+				},
+				"image": "http:\/\/hiphotos.baidu.com\/lbsugc\/pic\/item\/f9dcd100baa1cd112f062744b112c8fcc3ce2d25.jpg",
+				"image_from": "rengong",
+				"image_num": "8",
+				"indoor_prote": {
+					"buildingid": "12440225817084406834",
+					"taginfo": [{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "运动服装"
+					},
+					{
+						"propte_num": 3,
+						"shop_num": 15,
+						"tag": "快餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "家具家居"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 6,
+						"tag": "男装"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 12,
+						"tag": "中式快餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "游乐游艺"
+					},
+					{
+						"propte_num": 7,
+						"shop_num": 37,
+						"tag": "餐饮"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 26,
+						"tag": "女装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "钟表"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 6,
+						"tag": "甜点冷饮"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "户外服装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "翡翠"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "火锅"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "美容"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 76,
+						"tag": "服饰鞋帽"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 13,
+						"tag": "生活服务"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "美甲"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 3,
+						"tag": "西式快餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "健身器材"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "钟表眼镜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "美发"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 9,
+						"tag": "化妆品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "家用电器"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "女鞋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "粤菜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "数码耗材"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 8,
+						"tag": "个人护理"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "手表"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "工艺礼品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "美容美发按摩"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 12,
+						"tag": "中餐"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 6,
+						"tag": "茶酒"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "箱包皮具"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "数码产品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "休闲娱乐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "厨房用具"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "川菜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 7,
+						"tag": "金银珠宝"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 1,
+						"tag": "西北菜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 8,
+						"tag": "休闲服装"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 2,
+						"tag": "咖啡厅"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "按摩"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "母婴儿童"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "箱包"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 6,
+						"tag": "珠宝配饰"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 8,
+						"tag": "家居"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "眼镜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 12,
+						"tag": "童装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "皮具"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "运动休闲"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "台湾菜"
+					}]
+				},
+				"link": [],
+				"mbc": {
+					"markv": 3,
+					"poi_entrances": {
+						"entrances": [{
+							"bid": "13234992141352045961",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "新业广场-东门",
+							"poi_pointx": "13049158.39",
+							"poi_pointy": "4706374.78"
+						},
+						{
+							"bid": "15724716922921262166",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "新业广场(友谊路店)-北门",
+							"poi_pointx": "13049049.45",
+							"poi_pointy": "4706493.78"
+						},
+						{
+							"bid": "1814136064327255707",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "西门",
+							"poi_pointx": "13049075.19",
+							"poi_pointy": "4706365.43"
+						},
+						{
+							"bid": "6055014497419515349",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "新业广场(友谊路店)-南门",
+							"poi_pointx": "13049127.24",
+							"poi_pointy": "4706276.82"
+						}],
+						"parent_bid": "12440225817084406834",
+						"type": "mall"
+					},
+					"shopmall": {
+						"android": "9.1.7",
+						"content_url": "http:\/\/mbcapi.baidu.com\/mbc\/shopmall\/getShopMallInfo?type=poidetail&uid=ee4263dccd4b834b734b87c8",
+						"ios": "9.1.7",
+						"loc": "2|4,2|7",
+						"provider_txt": "百度地图倾情呈现",
+						"type": "mall",
+						"url": "http:\/\/client.map.baidu.com\/plugin\/ShoppingView\/ShoppingView"
+					}
+				},
+				"name": "新业广场(友谊路店)",
+				"nuomi_mengya": {
+					"10": 10,
+					"featured_menus": [{
+						"boss_recom": "",
+						"desc": "特力和乐 图片仅供参考,请以实物为准",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "特力和乐",
+						"price": 0,
+						"rec_num": "2750"
+					},
+					{
+						"boss_recom": "",
+						"desc": "艾格 图片仅供参考,请以实物为准",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "艾格",
+						"price": 0,
+						"rec_num": "2750"
+					},
+					{
+						"boss_recom": "",
+						"desc": "华润超市 图片仅供参考,请以实物为准",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "华润超市",
+						"price": 0,
+						"rec_num": "2750"
+					},
+					{
+						"boss_recom": "",
+						"desc": "耀莱成龙影城 图片仅供参考,请以实物为准",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "耀莱成龙影城",
+						"price": 0,
+						"rec_num": "2750"
+					},
+					{
+						"boss_recom": "",
+						"desc": "星美 图片仅供参考,请以实物为准",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "星美",
+						"price": 0,
+						"rec_num": "2750"
+					},
+					{
+						"boss_recom": "",
+						"desc": "赛百味 图片仅供参考,请以实物为准",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "赛百味",
+						"price": 0,
+						"rec_num": "2750"
+					},
+					{
+						"boss_recom": "",
+						"desc": "Starbucks 图片仅供参考,请以实物为准",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "Starbucks",
+						"price": 0,
+						"rec_num": "2750"
+					}],
+					"firm_id": "10443607",
+					"oid": "10443607",
+					"src": "catering",
+					"transfer": 1,
+					"update_time": "2017-04-10 13:55:26"
+				},
+				"overall_rating": "4.3",
+				"phone": "(022)88311666",
+				"poi_address": "黑牛城道125号",
+				"point": {
+					"x": 13049112.8,
+					"y": 4706388.72
+				},
+				"price": "101",
+				"service_rating": "5.0",
+				"shop_hours": "10:00-21:30，周五周六10:00-10:00",
+				"shop_hours_flag": 1,
+				"shopping_parking": {
+					"parking_fee": "4元\/小时；餐饮满68免费停车3小时",
+					"parking_type": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "shopping",
+					"transfer": 1
+				},
+				"status_label": "",
+				"std_tag": "购物;购物中心",
+				"tag": "购物中心",
+				"validate": 0,
+				"weighted_tag": "购物中心:10 购物:10"
+			},
+			"src_name": "shopping"
+		},
+		"ext_display": {
+			"display_info": {
+				"catalog_fields": null,
+				"impression_tag": {
+					"hotel": "",
+					"life": ""
+				},
+				"redu": "53890",
+				"source_map": [],
+				"src_name": "display_info"
+			}
+		},
+		"ext_type": 4,
+		"f_flag": 12,
+		"father_son": 0,
+		"flag_type": "65",
+		"geo": "1|13049112.80,4706388.72;13049112.80,4706388.72|13049112.80,4706388.72;",
+		"geo_type": 2,
+		"indoor_pano": "",
+		"indoor_parent_uid": "12440225817084406834",
+		"ismodified": 1,
+		"name": "新业广场(友谊路店)",
+		"navi_update_time": 1499846228,
+		"navi_x": "13049024.2",
+		"navi_y": "4706328.8",
+		"new_catalog_id": "030100",
+		"origin_id": {
+			"lbc_uid": "14133599769986052408"
+		},
+		"pano": 1,
+		"poiType": 0,
+		"poi_click_num": 0,
+		"poi_profile": 0,
+		"primary_uid": "12440225817084406834",
+		"prio_flag": 32,
+		"route_flag": 0,
+		"show_tag": [],
+		"status": 1,
+		"std_tag": "购物;购物中心",
+		"storage_src": "api",
+		"street_id": "ee4263dccd4b834b734b87c8",
+		"tag": "购物中心 购物",
+		"tel": "(022)88311666",
+		"ty": 2,
+		"uid": "ee4263dccd4b834b734b87c8",
+		"view_type": 0,
+		"x": 1304911280,
+		"y": 470638872
+	},
+	{
+		"acc_flag": 0,
+		"addr": "天津市滨海区泰达大街泰达时尚东路29号",
+		"address_norm": "[天津市(332)|CITY|1|NONE][滨海新区(8336)|AREA|0|NONE]滨海区泰达大街泰达时尚东路29号",
+		"alias": ["永旺梦乐城购物中心",
+		"永旺梦乐城泰达购物中心"],
+		"area": 8336,
+		"area_name": "天津市滨海新区",
+		"biz_type": 0,
+		"brand_id": {
+			"id": "135094",
+			"name": "永旺梦乐城"
+		},
+		"catalogID": 0,
+		"cla": [],
+		"click_flag": 0,
+		"detail": 1,
+		"diPointX": 1310641200,
+		"diPointY": 469994569,
+		"di_tag": "购物中心 购物",
+		"dis": -1,
+		"dist2route": 0,
+		"dist2start": 0,
+		"ext": {
+			"detail_info": {
+				"app_cross_rcmd": {
+					"is_rcmd": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "app",
+					"transfer": 1
+				},
+				"areaid": "8336",
+				"comment_num": "5",
+				"description_flag": "",
+				"display_info_comment_label": {
+					"hotel": "",
+					"life": ""
+				},
+				"display_info_redu": "34473",
+				"environment_rating": "0",
+				"from_pds": "1",
+				"image": "http:\/\/hiphotos.baidu.com\/lbsugc\/pic\/item\/8c1001e93901213fad631bb85ce736d12f2e9505.jpg",
+				"image_from": "rengong",
+				"image_num": "9",
+				"link": [],
+				"mbc": {
+					"markv": "3"
+				},
+				"name": "永旺梦乐城(泰达购物中心)",
+				"nuomi_mengya": {
+					"10": 10,
+					"transfer": 1
+				},
+				"overall_rating": "4.4",
+				"phone": "(022)59857000",
+				"poi_address": "天津市滨海区泰达大街泰达时尚东路29号",
+				"point": {
+					"x": 13106412,
+					"y": 4699945.69
+				},
+				"price": "0",
+				"service_rating": "0",
+				"shop_hours": "",
+				"shop_hours_flag": "",
+				"status_label": "",
+				"std_tag": "购物;购物中心",
+				"tag": "购物中心",
+				"validate": 0,
+				"weighted_tag": "购物中心:10 购物:10"
+			},
+			"src_name": "shopping"
+		},
+		"ext_display": {
+			"display_info": {
+				"catalog_fields": null,
+				"impression_tag": {
+					"hotel": "",
+					"life": ""
+				},
+				"redu": "34473",
+				"source_map": [],
+				"src_name": "display_info"
+			}
+		},
+		"ext_type": 4,
+		"f_flag": 25,
+		"father_son": 0,
+		"flag_type": "64",
+		"geo": "1|13106412.00,4699945.69;13106412.00,4699945.69|13106412.00,4699945.69;",
+		"geo_type": 2,
+		"indoor_pano": "",
+		"ismodified": 0,
+		"name": "永旺梦乐城(泰达购物中心)",
+		"navi_update_time": 1499394907,
+		"navi_x": "13106281.175",
+		"navi_y": "4700074.06531",
+		"new_catalog_id": "030100",
+		"origin_id": {
+			"lbc_uid": "5345489144968782883"
+		},
+		"pano": 1,
+		"poiType": 0,
+		"poi_click_num": 0,
+		"poi_profile": 0,
+		"primary_uid": "16063648554768486103",
+		"prio_flag": 32,
+		"route_flag": 0,
+		"show_tag": [],
+		"status": 1,
+		"std_tag": "购物;购物中心",
+		"storage_src": "api",
+		"street_id": "22f7929ff5b03a35336212db",
+		"tag": "购物中心 购物",
+		"tel": "(022)59857000",
+		"ty": 2,
+		"uid": "22f7929ff5b03a35336212db",
+		"view_type": 0,
+		"x": 1310641200,
+		"y": 469994569
+	},
+	{
+		"acc_flag": 0,
+		"addr": "和平路119号",
+		"address_norm": "[天津市(332)|CITY|0|NONE][和平区(1869)|AREA|0|NONE][和平路()|ROAD|1|NONE]119号",
+		"alias": ["万达广场",
+		"万达广场（和平店）",
+		"万达广场和平店",
+		"万达商业广场"],
+		"aoi": "和平路",
+		"area": 1869,
+		"area_name": "天津市和平区",
+		"biz_type": 0,
+		"brand_id": {
+			"id": "68091",
+			"name": "万达广场"
+		},
+		"catalogID": 15,
+		"cla": [[15,
+		"购物"]],
+		"click_flag": 0,
+		"detail": 1,
+		"diPointX": 1304673381,
+		"diPointY": 471402509,
+		"di_tag": "购物中心 购物",
+		"dis": -1,
+		"dist2route": 0,
+		"dist2start": 0,
+		"ext": {
+			"detail_info": {
+				"app_cross_rcmd": {
+					"is_rcmd": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "app",
+					"transfer": 1
+				},
+				"areaid": "1869",
+				"brand_list": [{
+					"bid_list": ["1264420908605374463"],
+					"brand_real": 1,
+					"brandname": "傣妹火锅",
+					"click": 21163,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=1809118625,2404112279&fm=58"
+				},
+				{
+					"bid_list": ["1263881396288487423",
+					"16691086823029734313"],
+					"brand_real": 1,
+					"brandname": "李宁",
+					"click": 21034,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=2590727592,3990467863&fm=58"
+				},
+				{
+					"bid_list": ["1263760437124530175"],
+					"brand_real": 1,
+					"brandname": "宝岛眼镜",
+					"click": 21016,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=859532615,3560976872&fm=58"
+				},
+				{
+					"bid_list": ["1263913471104253951"],
+					"brand_real": 1,
+					"brandname": "匡威",
+					"click": 21010,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=2833493393,1908794178&fm=22"
+				},
+				{
+					"bid_list": ["17916192112720849745"],
+					"brand_real": 1,
+					"brandname": "品尚豆捞",
+					"click": 21008,
+					"logo": "http:\/\/t11.baidu.com\/it\/u=3597934408,324204781&fm=22"
+				},
+				{
+					"bid_list": ["1263788040879341567"],
+					"brand_real": 1,
+					"brandname": "周大生",
+					"click": 21004,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=1924663041,469027207&fm=58"
+				}],
+				"comment_num": "5",
+				"description_flag": 1,
+				"display_info_comment_label": {
+					"hotel": "",
+					"life": ""
+				},
+				"display_info_redu": "30982",
+				"environment_rating": "4.0",
+				"from_pds": "1",
+				"guoke_geo": {
+					"geo": "",
+					"src_type": "wanneng_touchuan",
+					"sub_src": "guoke",
+					"transfer": 1
+				},
+				"image": "http:\/\/hiphotos.baidu.com\/lbsugc\/pic\/item\/738b4710b912c8fca3cfa2a9f4039245d6882191.jpg",
+				"image_from": "rengong",
+				"image_num": "14",
+				"link": [],
+				"mbc": {
+					"markv": 3,
+					"shhouse": {
+						"android": "9.1.0",
+						"ios": "9.1.0",
+						"loc": "2|15",
+						"params": "{\"status\":\"1\"}",
+						"reder_mode": "0",
+						"replace_id": "",
+						"url": "http:\/\/mbcapi.baidu.com\/mbc\/plugin\/SecHandHouseView\/SecHandHouseView"
+					}
+				},
+				"name": "万达广场(和平店)",
+				"nuomi_mengya": {
+					"10": 10,
+					"transfer": 1
+				},
+				"overall_rating": "4.4",
+				"phone": "",
+				"poi_address": "和平路119号",
+				"point": {
+					"x": 13046733.81,
+					"y": 4714025.1
+				},
+				"price": "48",
+				"service_rating": "4.0",
+				"shop_hours": "",
+				"shop_hours_flag": "",
+				"status_label": "",
+				"std_tag": "购物;购物中心",
+				"tag": "购物中心",
+				"validate": 0,
+				"weighted_tag": "购物中心:10 购物:10"
+			},
+			"src_name": "shopping"
+		},
+		"ext_display": {
+			"display_info": {
+				"catalog_fields": null,
+				"impression_tag": {
+					"hotel": "",
+					"life": ""
+				},
+				"redu": "30982",
+				"source_map": [],
+				"src_name": "display_info"
+			}
+		},
+		"ext_type": 4,
+		"f_flag": 12,
+		"father_son": 0,
+		"flag_type": "64",
+		"geo": "1|13046733.81,4714025.09;13046733.81,4714025.09|13046733.81,4714025.09;",
+		"geo_type": 2,
+		"indoor_pano": "",
+		"ismodified": 0,
+		"name": "万达广场(和平店)",
+		"navi_update_time": 1499304972,
+		"navi_x": "13046691.4645",
+		"navi_y": "4713882.50335",
+		"new_catalog_id": "030100",
+		"origin_id": {
+			"lbc_uid": "18382497281159398690"
+		},
+		"pano": 1,
+		"poiType": 0,
+		"poi_click_num": 0,
+		"poi_profile": 1,
+		"primary_uid": "2647481005142068239",
+		"prio_flag": 32,
+		"route_flag": 0,
+		"show_tag": [],
+		"status": 1,
+		"std_tag": "购物;购物中心",
+		"storage_src": "api",
+		"street_id": "4baed166ce0d01630f0a705e",
+		"tag": "购物中心 购物",
+		"ty": 2,
+		"uid": "4baed166ce0d01630f0a705e",
+		"view_type": 0,
+		"x": 1304673381,
+		"y": 471402509
+	},
+	{
+		"acc_flag": 0,
+		"addr": "天津市津南区津沽大街174号",
+		"address_norm": "[天津市(332)|CITY|1|NONE][津南区(2701)|AREA|1|NONE][津沽大街()|ROAD|1|NONE]174号",
+		"alias": ["天津市月坛商业大厦",
+		"天津月坛商业大厦",
+		"月坛商厦",
+		"月坛新厦"],
+		"aoi": "咸水沽",
+		"area": 2701,
+		"area_name": "天津市津南区",
+		"biz_type": 0,
+		"brand_id": null,
+		"catalogID": 117,
+		"cla": [[15,
+		"购物"],
+		[117,
+		"综合商场\/购物中心"]],
+		"click_flag": 0,
+		"detail": 1,
+		"diPointX": 1306841621,
+		"diPointY": 469372776,
+		"di_tag": "购物中心 购物",
+		"dis": -1,
+		"dist2route": 0,
+		"dist2start": 0,
+		"ext": {
+			"detail_info": {
+				"app_cross_rcmd": {
+					"is_rcmd": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "app",
+					"transfer": 1
+				},
+				"areaid": "2701",
+				"brand_list": [{
+					"bid_list": ["1260025172786675711"],
+					"brand_real": 1,
+					"brandname": "肯德基",
+					"click": 21054,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=522991931,624574087&fm=58"
+				},
+				{
+					"bid_list": ["3790034613355856916"],
+					"brand_real": 1,
+					"brandname": "TRENDIANO",
+					"click": 21005,
+					"logo": ""
+				},
+				{
+					"bid_list": ["6059993851507928281"],
+					"brand_real": 1,
+					"brandname": "NEW BALANCE",
+					"click": 21004,
+					"logo": ""
+				},
+				{
+					"bid_list": ["15415522151740946602"],
+					"brand_real": 1,
+					"brandname": "班尼路",
+					"click": 21003,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=4087878477,1625421989&fm=58"
+				},
+				{
+					"bid_list": ["8524592683039588429"],
+					"brand_real": 1,
+					"brandname": "PLAYBOY体育专卖店",
+					"click": 21002,
+					"logo": ""
+				},
+				{
+					"bid_list": ["11835740416606262158"],
+					"brand_real": 1,
+					"brandname": "英玉韩式拌饭",
+					"click": 20015,
+					"logo": ""
+				}],
+				"comment_num": "32",
+				"description_flag": 1,
+				"display_info_comment_label": {
+					"hotel": "",
+					"life": ""
+				},
+				"display_info_redu": "31874",
+				"environment_rating": "3.0",
+				"from_pds": "1",
+				"guoke_geo": {
+					"geo": "",
+					"src_type": "wanneng_touchuan",
+					"sub_src": "guoke",
+					"transfer": 1
+				},
+				"image": "http:\/\/hiphotos.baidu.com\/lbsugc\/c=map,90,90\/sign=95be16f90f0828387c0d8445c8b59031\/730e0cf3d7ca7bcbb8877ac9b6096b63f724a85c.jpg",
+				"image_from": "ruitudetail",
+				"image_num": "27",
+				"indoor_prote": {
+					"buildingid": "1259761453204766719",
+					"taginfo": [{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "数码配件"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 20,
+						"tag": "运动服装"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 7,
+						"tag": "快餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 6,
+						"tag": "家具家居"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 43,
+						"tag": "男装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "首饰"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "游乐设施"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 5,
+						"tag": "中式快餐"
+					},
+					{
+						"propte_num": 10,
+						"shop_num": 32,
+						"tag": "餐饮"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 54,
+						"tag": "女装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "小家电"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "银饰品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 12,
+						"tag": "钟表"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 8,
+						"tag": "甜点冷饮"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "户外服装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "钻石"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "翡翠"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 3,
+						"tag": "火锅"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "美容"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 221,
+						"tag": "服饰鞋帽"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "生活服务"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 2,
+						"tag": "西式快餐"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 3,
+						"tag": "西餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "童鞋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 7,
+						"tag": "文化办公"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 12,
+						"tag": "钟表眼镜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "美发"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "大家电"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 24,
+						"tag": "化妆品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "家用电器"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 17,
+						"tag": "女鞋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "黄金饰品"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 1,
+						"tag": "粤菜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 16,
+						"tag": "个人护理"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 8,
+						"tag": "手表"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "工艺礼品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "美容美发按摩"
+					},
+					{
+						"propte_num": 5,
+						"shop_num": 9,
+						"tag": "中餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "铂金饰品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 16,
+						"tag": "男鞋"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 4,
+						"tag": "茶酒"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 8,
+						"tag": "箱包皮具"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 15,
+						"tag": "数码产品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "彩妆"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "休闲娱乐"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 2,
+						"tag": "川菜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 26,
+						"tag": "金银珠宝"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 2,
+						"tag": "自助餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "西北菜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "手袋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "休闲服装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "咖啡厅"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "按摩"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "母婴儿童"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "休闲鞋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 8,
+						"tag": "箱包"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 20,
+						"tag": "家居"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 12,
+						"tag": "眼镜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 20,
+						"tag": "童装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 8,
+						"tag": "皮具"
+					}]
+				},
+				"link": [{
+					"cn_name": "大众点评",
+					"name": "dianping",
+					"src": "dianping",
+					"url": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/www.dianping.com\/shop\/5376019",
+					"url_mobilephone": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/m.dianping.com\/shop.aspx?pid=5376019"
+				}],
+				"mbc": {
+					"markv": 3,
+					"poi_entrances": {
+						"entrances": [{
+							"bid": "13654778584273160467",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "月坛商厦-东门",
+							"poi_pointx": "13068447.36",
+							"poi_pointy": "4693745.59"
+						},
+						{
+							"bid": "16996160033577552424",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "西门",
+							"poi_pointx": "13068411.7",
+							"poi_pointy": "4693687.49"
+						},
+						{
+							"bid": "2088965555341733900",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "月坛商厦-北门",
+							"poi_pointx": "13068372.28",
+							"poi_pointy": "4693692.4"
+						},
+						{
+							"bid": "2374805057111698122",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "西门",
+							"poi_pointx": "13068327.6",
+							"poi_pointy": "4693701.57"
+						},
+						{
+							"bid": "805488816669164635",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "北门",
+							"poi_pointx": "13068388.55",
+							"poi_pointy": "4693731.55"
+						},
+						{
+							"bid": "9170284943994607756",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "南门",
+							"poi_pointx": "13068394.67",
+							"poi_pointy": "4693669.62"
+						}],
+						"parent_bid": 1259761453204766719,
+						"type": "mall"
+					},
+					"shopmall": {
+						"android": "9.1.7",
+						"content_url": "http:\/\/mbcapi.baidu.com\/mbc\/shopmall\/getShopMallInfo?type=poidetail&uid=803708f11290816001897256",
+						"ios": "9.1.7",
+						"loc": "2|4,2|7",
+						"provider_txt": "百度地图倾情呈现",
+						"type": "mall",
+						"url": "http:\/\/client.map.baidu.com\/plugin\/ShoppingView\/ShoppingView"
+					}
+				},
+				"name": "月坛商厦(体育场路)",
+				"nuomi_mengya": {
+					"10": 10,
+					"transfer": 1
+				},
+				"overall_rating": "4.8",
+				"phone": "022-28518979,022-28518979,022-28399388",
+				"poi_address": "天津市津南区津沽大街174号",
+				"point": {
+					"x": 13068416.21,
+					"y": 4693727.76
+				},
+				"price": "313.0",
+				"service_rating": "3.0",
+				"shop_hours": "周一-周四9：30-21：30 周五-周日9:30--10:00  567",
+				"shop_hours_flag": 1,
+				"shopping_parking": {
+					"parking_fee": "分机号1029未接通",
+					"parking_type": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "shopping",
+					"transfer": 1
+				},
+				"status_label": "",
+				"std_tag": "购物;购物中心",
+				"tag": "购物中心",
+				"validate": 0,
+				"weighted_tag": "购物中心:10 购物:10"
+			},
+			"src_name": "shopping"
+		},
+		"ext_display": {
+			"display_info": {
+				"catalog_fields": null,
+				"impression_tag": {
+					"hotel": "",
+					"life": ""
+				},
+				"redu": "31874",
+				"source_map": [],
+				"src_name": "display_info"
+			}
+		},
+		"ext_type": 4,
+		"f_flag": 17,
+		"father_son": 0,
+		"flag_type": "65",
+		"geo": "1|13068416.21,4693727.76;13068416.21,4693727.76|13068416.21,4693727.76;",
+		"geo_type": 2,
+		"indoor_parent_uid": "1259761453204766719",
+		"name": "月坛商厦(体育场路)",
+		"navi_update_time": 1499639187,
+		"navi_x": "13068442.9112",
+		"navi_y": "4693801.76486",
+		"new_catalog_id": "030100",
+		"origin_id": {
+			"lbc_uid": "3375436030955838203"
+		},
+		"poiType": 0,
+		"poi_click_num": 0,
+		"poi_profile": 0,
+		"primary_uid": "1259761453204766719",
+		"prio_flag": 32,
+		"route_flag": 0,
+		"show_tag": [],
+		"status": 1,
+		"std_tag": "购物;购物中心",
+		"storage_src": "api",
+		"tag": "",
+		"tel": "022-28518979,022-28518979,022-28399388",
+		"ty": 2,
+		"uid": "803708f11290816001897256",
+		"view_type": 0,
+		"x": 1306841621,
+		"y": 469372776
+	},
+	{
+		"acc_flag": 0,
+		"addr": "天津市和平区解放北路188号",
+		"address_norm": "[天津市(332)|CITY|1|NONE][和平区(1869)|AREA|1|NONE][解放北路()|ROAD|1|NONE]188号",
+		"alias": ["EQIQ(海信广场解放北路)",
+		"海信广场(解放北路)",
+		"天津海信广场"],
+		"aoi": "小白楼;国际大厦",
+		"area": 1869,
+		"area_name": "天津市和平区",
+		"biz_type": 0,
+		"brand_id": null,
+		"catalogID": 117,
+		"cla": [[15,
+		"购物"],
+		[117,
+		"综合<font color=\"#c60a00\">商场<\/font>\/购物中心"]],
+		"click_flag": 0,
+		"detail": 1,
+		"diPointX": 1304948572,
+		"diPointY": 471222008,
+		"di_tag": "购物中心 购物",
+		"dis": -1,
+		"dist2route": 0,
+		"dist2start": 0,
+		"ext": {
+			"detail_info": {
+				"app_cross_rcmd": {
+					"is_rcmd": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "app",
+					"transfer": 1
+				},
+				"areaid": "1869",
+				"brand_list": [{
+					"bid_list": ["14722177470497411648"],
+					"brand_real": 1,
+					"brandname": "周生生",
+					"click": 21023,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=451507107,796677680&fm=22"
+				},
+				{
+					"bid_list": ["5289221892783491701"],
+					"brand_real": 1,
+					"brandname": "豪雅",
+					"click": 21016,
+					"logo": ""
+				},
+				{
+					"bid_list": ["1263793482602905599"],
+					"brand_real": 1,
+					"brandname": "GUCCI",
+					"click": 21009,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=2088171077,2650377980&fm=58"
+				},
+				{
+					"bid_list": ["14243901479935971417"],
+					"brand_real": 1,
+					"brandname": "MCM",
+					"click": 21008,
+					"logo": ""
+				},
+				{
+					"bid_list": ["11684745068946919488"],
+					"brand_real": 1,
+					"brandname": "EIN",
+					"click": 21003,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=45317669,2555112127&fm=58"
+				},
+				{
+					"bid_list": ["9549472448594246370"],
+					"brand_real": 1,
+					"brandname": "速写",
+					"click": 21001,
+					"logo": ""
+				}],
+				"comment_num": "179",
+				"description_flag": 1,
+				"display_info_comment_label": {
+					"hotel": "",
+					"life": ""
+				},
+				"display_info_redu": "34393",
+				"environment_rating": "4.55",
+				"from_pds": "1",
+				"guoke_geo": {
+					"geo": "",
+					"src_type": "wanneng_touchuan",
+					"sub_src": "guoke",
+					"transfer": 1
+				},
+				"image": "http:\/\/hiphotos.baidu.com\/lbsugc\/pic\/item\/72f082025aafa40fc2059bb9a364034f79f01996.jpg",
+				"image_from": "rengong",
+				"image_num": "481",
+				"indoor_prote": {
+					"buildingid": "1263836642729263103"
+				},
+				"link": [{
+					"cn_name": "大众点评",
+					"name": "dianping",
+					"src": "dianping",
+					"url": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/www.dianping.com\/shop\/82099899",
+					"url_mobilephone": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/m.dianping.com\/shop.aspx?pid=82099899"
+				},
+				{
+					"cn_name": "QQ美食",
+					"name": "qqmeishi",
+					"src": "qqmeishi",
+					"url": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/meishi.qq.com\/shops\/522814595594897808",
+					"url_mobilephone": null
+				}],
+				"mbc": {
+					"markv": "2",
+					"shopmall": {
+						"android": "9.1.7",
+						"content_url": "http:\/\/mbcapi.baidu.com\/mbc\/shopmall\/getShopMallInfo?type=poidetail&uid=7fd72311eff839865cbe86cd",
+						"ios": "9.1.7",
+						"loc": "2|4,2|7",
+						"provider_txt": "百度地图倾情呈现",
+						"type": "mall",
+						"url": "http:\/\/client.map.baidu.com\/plugin\/ShoppingView\/ShoppingView"
+					}
+				},
+				"name": "海信广场",
+				"nuomi_mengya": {
+					"10": 10,
+					"featured_menus": [{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "星巴克",
+						"price": 0,
+						"rec_num": "3783090"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "VERSACE",
+						"price": 0,
+						"rec_num": "1443330"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "FINITY",
+						"price": 0,
+						"rec_num": "1443300"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "OQO",
+						"price": 0,
+						"rec_num": "1443270"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "鞋子",
+						"price": 0,
+						"rec_num": "1443240"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "VM",
+						"price": 0,
+						"rec_num": "1443210"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "山寨",
+						"price": 0,
+						"rec_num": "1443180"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "迪奥",
+						"price": 0,
+						"rec_num": "1443150"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "carter",
+						"price": 0,
+						"rec_num": "1443120"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "卡地亚",
+						"price": 0,
+						"rec_num": "1443090"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "PRADA",
+						"price": 0,
+						"rec_num": "1442940"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "gucci",
+						"price": 0,
+						"rec_num": "1442910"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "奢侈品",
+						"price": 0,
+						"rec_num": "1442880"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "综合商场",
+						"price": 0,
+						"rec_num": "1047810"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "哈根达斯",
+						"price": 0,
+						"rec_num": "606480"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "高档商场",
+						"price": 0,
+						"rec_num": "549870"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "超市",
+						"price": 0,
+						"rec_num": "169410"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "菲拉格慕",
+						"price": 0,
+						"rec_num": "30660"
+					}],
+					"firm_id": "2694295",
+					"oid": "2694295",
+					"src": "catering",
+					"transfer": 1,
+					"update_time": "2017-04-10 14:38:44"
+				},
+				"overall_rating": "4.6",
+				"phone": "(022)23198888",
+				"poi_address": "天津市和平区解放北路188号",
+				"point": {
+					"x": 13049485.72,
+					"y": 4712220.08
+				},
+				"price": "1482.0",
+				"service_rating": "4.15",
+				"shop_hours": "周日到周四10点到9点30，周五周六10点到晚上10点109310",
+				"shop_hours_flag": 1,
+				"shopping_parking": {
+					"parking_fee": "会员一个点停车一小时，普通8块一小时，消费满200元送一小时",
+					"parking_type": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "shopping",
+					"transfer": 1
+				},
+				"status_label": "",
+				"std_tag": "购物;购物中心",
+				"tag": "购物中心",
+				"validate": 0,
+				"weighted_tag": "购物中心:10 购物:10"
+			},
+			"src_name": "shopping"
+		},
+		"ext_display": {
+			"display_info": {
+				"catalog_fields": null,
+				"impression_tag": {
+					"hotel": "",
+					"life": ""
+				},
+				"redu": "34393",
+				"source_map": [],
+				"src_name": "display_info"
+			}
+		},
+		"ext_type": 4,
+		"f_flag": 12,
+		"father_son": 0,
+		"flag_type": "65",
+		"geo": "1|13049485.72,4712220.08;13049485.72,4712220.08|13049485.72,4712220.08;",
+		"geo_type": 2,
+		"indoor_pano": "",
+		"indoor_parent_uid": "1263836642729263103",
+		"ismodified": 0,
+		"name": "海信广场",
+		"navi_update_time": 1499822461,
+		"navi_x": "13049542.9882",
+		"navi_y": "4712045.54839",
+		"new_catalog_id": "030100",
+		"origin_id": {
+			"lbc_uid": "1549820959623644778"
+		},
+		"pano": 1,
+		"poiType": 0,
+		"poi_click_num": 0,
+		"poi_profile": 0,
+		"primary_uid": "1263836642729263103",
+		"prio_flag": 32,
+		"route_flag": 0,
+		"show_tag": [],
+		"status": 1,
+		"std_tag": "购物;购物中心",
+		"storage_src": "api",
+		"street_id": "7fd72311eff839865cbe86cd",
+		"tag": "购物中心 购物",
+		"tel": "(022)23198888",
+		"ty": 2,
+		"uid": "7fd72311eff839865cbe86cd",
+		"view_type": 0,
+		"x": 1304948572,
+		"y": 471222008
+	},
+	{
+		"acc_flag": 0,
+		"addr": "南北大街1号",
+		"address_norm": "[天津市(332)|CITY|0|NONE][河西区(1455)|AREA|0|NONE][南北大街()|ROAD|1|NONE]1号",
+		"alias": [" ",
+		"极米凯德MALL天津湾直营店",
+		"凯德MALL",
+		"凯德MALL(海景假日西)",
+		"凯德MALL·天津湾(海景假日西)",
+		"凯德MALL商场",
+		"凯德MALL天津湾",
+		"凯德MALL天津湾店"],
+		"area": 1455,
+		"area_name": "天津市河西区",
+		"biz_type": 0,
+		"brand_id": {
+			"id": "33110",
+			"name": "凯德MALL"
+		},
+		"catalogID": 15,
+		"cla": [[15,
+		"购物"]],
+		"click_flag": 0,
+		"detail": 1,
+		"diPointX": 1305192484,
+		"diPointY": 470927673,
+		"di_tag": "购物中心 购物",
+		"dis": -1,
+		"dist2route": 0,
+		"dist2start": 0,
+		"ext": {
+			"detail_info": {
+				"app_cross_rcmd": {
+					"is_rcmd": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "app",
+					"transfer": 1
+				},
+				"areaid": "1455",
+				"brand_list": [{
+					"bid_list": ["1264304257293615103"],
+					"brand_real": 1,
+					"brandname": "海底捞",
+					"click": 21855,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=2223620477,1832705154&fm=58"
+				},
+				{
+					"bid_list": ["12370755081370773009"],
+					"brand_real": 1,
+					"brandname": "江边城外烤全鱼",
+					"click": 21122,
+					"logo": ""
+				},
+				{
+					"bid_list": ["1263835096541036543"],
+					"brand_real": 1,
+					"brandname": "热风",
+					"click": 21013,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=1144101326,3149581815&fm=58"
+				},
+				{
+					"bid_list": ["11141923566269595017"],
+					"brand_real": 1,
+					"brandname": "BATA",
+					"click": 21006,
+					"logo": "http:\/\/t11.baidu.com\/it\/u=747212629,107343195&fm=58"
+				},
+				{
+					"bid_list": ["15508467744637422314",
+					"6077836177315471346"],
+					"brand_real": 1,
+					"brandname": "太平鸟",
+					"click": 21002,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=330554619,1355493977&fm=58"
+				},
+				{
+					"bid_list": ["3694324331738315428"],
+					"brand_real": 1,
+					"brandname": "优衣库",
+					"click": 21000,
+					"logo": "http:\/\/t11.baidu.com\/it\/u=2402453713,3652300193&fm=58"
+				}],
+				"comment_num": "22",
+				"description_flag": "",
+				"display_info_comment_label": {
+					"hotel": "",
+					"life": ""
+				},
+				"display_info_redu": "32656",
+				"environment_rating": "4.0",
+				"from_pds": "1",
+				"image": "http:\/\/hiphotos.baidu.com\/lbsugc\/pic\/item\/08f790529822720ee52f84fb78cb0a46f31fabca.jpg",
+				"image_from": "baidumap",
+				"image_num": "88",
+				"indoor_prote": {
+					"buildingid": "749484299759526685",
+					"taginfo": [{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "运动服装"
+					},
+					{
+						"propte_num": 3,
+						"shop_num": 5,
+						"tag": "快餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "泰国菜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "家具家居"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "男装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "首饰"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "游乐设施"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 3,
+						"tag": "中式快餐"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 7,
+						"tag": "游乐游艺"
+					},
+					{
+						"propte_num": 8,
+						"shop_num": 31,
+						"tag": "餐饮"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 11,
+						"tag": "女装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "东南亚菜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "电影院"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "银饰品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 6,
+						"tag": "钟表"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 8,
+						"tag": "甜点冷饮"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "户外服装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "钻石"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 1,
+						"tag": "火锅"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "美容"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 37,
+						"tag": "服饰鞋帽"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 8,
+						"tag": "生活服务"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "美甲"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 2,
+						"tag": "西式快餐"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 3,
+						"tag": "西餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 6,
+						"tag": "钟表眼镜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "美发"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "化妆品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "女鞋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "粤菜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "个人护理"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "手表"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "工艺礼品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "美容美发按摩"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 8,
+						"tag": "中餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "茶酒"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "箱包皮具"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "数码产品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "运动配件"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "彩妆"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 9,
+						"tag": "休闲娱乐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "川菜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "金银珠宝"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 1,
+						"tag": "咖啡厅"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "按摩"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "母婴儿童"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "休闲鞋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "箱包"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 4,
+						"tag": "家居"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 6,
+						"tag": "眼镜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "童装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "皮具"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "运动休闲"
+					}]
+				},
+				"link": [],
+				"mbc": {
+					"markv": "2",
+					"poi_entrances": {
+						"entrances": [{
+							"bid": "14261905319126224423",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "凯德mall·天津湾-西门",
+							"poi_pointx": "13051896.64",
+							"poi_pointy": "4709132.55"
+						},
+						{
+							"bid": "17186292434753663592",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "北门",
+							"poi_pointx": "13051883.68",
+							"poi_pointy": "4709371.58"
+						},
+						{
+							"bid": "2115536388701493098",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "东门",
+							"poi_pointx": "13051977.6",
+							"poi_pointy": "4709245.15"
+						},
+						{
+							"bid": "4790442275498730135",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "西门",
+							"poi_pointx": "13051891.99",
+							"poi_pointy": "4709230.71"
+						},
+						{
+							"bid": "631460085675333794",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "凯德MALL·天津湾-东门",
+							"poi_pointx": "13051977.71",
+							"poi_pointy": "4709233.58"
+						}],
+						"parent_bid": 749484299759526685,
+						"type": "mall"
+					},
+					"shopmall": {
+						"android": "9.1.7",
+						"content_url": "http:\/\/mbcapi.baidu.com\/mbc\/shopmall\/getShopMallInfo?type=poidetail&uid=8d01cee96b974c6f3517dcbc",
+						"ios": "9.1.7",
+						"loc": "2|4,2|7",
+						"provider_txt": "百度地图倾情呈现",
+						"type": "mall",
+						"url": "http:\/\/client.map.baidu.com\/plugin\/ShoppingView\/ShoppingView"
+					}
+				},
+				"name": "凯德MALL(海景假日西)",
+				"nuomi_mengya": {
+					"10": 10,
+					"featured_menus": [{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "屈臣氏",
+						"price": 0,
+						"rec_num": "4544430"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "综合商场",
+						"price": 0,
+						"rec_num": "3473550"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "红豆鲷鱼烧",
+						"price": 0,
+						"rec_num": "3338580"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "海底捞",
+						"price": 0,
+						"rec_num": "3146400"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "超市",
+						"price": 0,
+						"rec_num": "2366400"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "巴黎贝甜",
+						"price": 0,
+						"rec_num": "2081520"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "韩罗苑",
+						"price": 0,
+						"rec_num": "1782930"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "星美影城",
+						"price": 0,
+						"rec_num": "1782900"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "易买得",
+						"price": 0,
+						"rec_num": "1782870"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "Mr",
+						"price": 0,
+						"rec_num": "1782840"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "大卖场",
+						"price": 0,
+						"rec_num": "1782810"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "太兴蜜汁叉烧皇",
+						"price": 0,
+						"rec_num": "1782780"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "游戏城",
+						"price": 0,
+						"rec_num": "1782750"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "海底捞火锅",
+						"price": 0,
+						"rec_num": "1782720"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "优衣库",
+						"price": 0,
+						"rec_num": "1782690"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "PIZZA",
+						"price": 0,
+						"rec_num": "1286700"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "麦当劳",
+						"price": 0,
+						"rec_num": "575730"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "鲜芋仙招牌",
+						"price": 0,
+						"rec_num": "199980"
+					}],
+					"firm_id": "9677406",
+					"oid": "9677406",
+					"src": "catering",
+					"transfer": 1,
+					"update_time": "2017-04-10 15:55:53"
+				},
+				"overall_rating": "4.3",
+				"phone": "(022)88267888",
+				"poi_address": "南北大街1号",
+				"point": {
+					"x": 13051924.84,
+					"y": 4709276.73
+				},
+				"price": "190",
+				"service_rating": "4.0",
+				"shop_hours": "10:00-22:00",
+				"shop_hours_flag": 1,
+				"shopping_parking": {
+					"parking_fee": "4元\/小时",
+					"parking_type": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "shopping",
+					"transfer": 1
+				},
+				"status_label": "",
+				"std_tag": "购物;购物中心",
+				"tag": "购物中心",
+				"validate": 1,
+				"weighted_tag": "购物中心:10 购物:10"
+			},
+			"src_name": "shopping"
+		},
+		"ext_display": {
+			"display_info": {
+				"catalog_fields": null,
+				"impression_tag": {
+					"hotel": "",
+					"life": ""
+				},
+				"redu": "32656",
+				"source_map": [],
+				"src_name": "display_info"
+			}
+		},
+		"ext_type": 4,
+		"f_flag": 16,
+		"father_son": 0,
+		"flag_type": "65",
+		"geo": "1|13051924.84,4709276.73;13051924.84,4709276.73|13051924.84,4709276.73;",
+		"geo_type": 2,
+		"indoor_pano": "",
+		"indoor_parent_uid": "749484299759526685",
+		"ismodified": 0,
+		"name": "凯德MALL商场",
+		"navi_update_time": 1499637072,
+		"navi_x": "13051842.5726",
+		"navi_y": "4709209.88634",
+		"new_catalog_id": "030100",
+		"origin_id": {
+			"lbc_uid": "1789037567330459934"
+		},
+		"pano": 1,
+		"poiType": 0,
+		"poi_click_num": 0,
+		"poi_profile": 0,
+		"primary_uid": "749484299759526685",
+		"prio_flag": 32,
+		"route_flag": 0,
+		"show_tag": [],
+		"status": 1,
+		"std_tag": "购物;购物中心",
+		"storage_src": "api",
+		"street_id": "8d01cee96b974c6f3517dcbc",
+		"tag": "",
+		"tel": "(022)88267888",
+		"ty": 2,
+		"uid": "8d01cee96b974c6f3517dcbc",
+		"view_type": 0,
+		"x": 1305192484,
+		"y": 470927673,
+		"zip": "300210"
+	},
+	{
+		"acc_flag": 0,
+		"addr": "天津市河北区建国道1号",
+		"address_norm": "[天津市(332)|CITY|1|NONE][河北区(2700)|AREA|1|NONE][建国道()|ROAD|1|NONE]1号",
+		"aoi": "火车站",
+		"area": 2700,
+		"area_name": "天津市河北区",
+		"biz_type": 0,
+		"brand_id": null,
+		"catalogID": 236,
+		"cla": [[24,
+		"商务大厦"],
+		[236,
+		"办公大厦"]],
+		"click_flag": 0,
+		"detail": 1,
+		"diPointX": 1304824092,
+		"diPointY": 471465609,
+		"di_tag": "购物中心 购物",
+		"dis": -1,
+		"dist2route": 0,
+		"dist2start": 0,
+		"ext": {
+			"detail_info": {
+				"app_cross_rcmd": {
+					"is_rcmd": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "app",
+					"transfer": 1
+				},
+				"areaid": "2700",
+				"comment_num": "3",
+				"description_flag": "",
+				"display_info_comment_label": {
+					"hotel": "",
+					"life": ""
+				},
+				"display_info_redu": "21687",
+				"environment_rating": "0",
+				"from_pds": "1",
+				"image": "http:\/\/hiphotos.baidu.com\/lbsugc\/c=map,90,90\/sign=5746f8c8b6096b63951906017c1fbe74\/a044ad345982b2b78da2062339adcbef76099b13.jpg",
+				"image_from": "ruitudetail",
+				"image_num": "11",
+				"link": [],
+				"mbc": {
+					"markv": "3"
+				},
+				"name": "龙门大厦",
+				"nuomi_mengya": {
+					"10": 10,
+					"transfer": 1
+				},
+				"overall_rating": "5",
+				"phone": "(022)24210936",
+				"poi_address": "天津市河北区建国道1号",
+				"point": {
+					"x": 13048240.92,
+					"y": 4714656.1
+				},
+				"price": "0",
+				"service_rating": "0",
+				"shop_hours": "",
+				"shop_hours_flag": "",
+				"status_label": "",
+				"std_tag": "购物;购物中心",
+				"tag": "购物中心",
+				"validate": 0,
+				"weighted_tag": "购物中心:10 购物:10"
+			},
+			"src_name": "shopping"
+		},
+		"ext_display": {
+			"display_info": {
+				"catalog_fields": null,
+				"impression_tag": {
+					"hotel": "",
+					"life": ""
+				},
+				"redu": "21687",
+				"source_map": [],
+				"src_name": "display_info"
+			}
+		},
+		"ext_type": 4,
+		"f_flag": 12,
+		"father_son": 0,
+		"flag_type": "64",
+		"geo": "1|13048240.92,4714656.09;13048240.92,4714656.09|13048240.92,4714656.09;",
+		"geo_type": 2,
+		"indoor_pano": "",
+		"ismodified": 0,
+		"name": "龙门大厦",
+		"navi_update_time": 1499841779,
+		"navi_x": "13048102.5599",
+		"navi_y": "4714673.21167",
+		"new_catalog_id": "030100",
+		"origin_id": {
+			"lbc_uid": "14387456085214313234"
+		},
+		"pano": 1,
+		"poiType": 0,
+		"poi_click_num": 0,
+		"poi_profile": 0,
+		"primary_uid": "2006312478227788321",
+		"prio_flag": 32,
+		"route_flag": 0,
+		"show_tag": [],
+		"status": 1,
+		"std_tag": "购物;购物中心",
+		"storage_src": "api",
+		"street_id": "a3d2f658d7a0bf6d2cb908c4",
+		"tag": "购物中心 购物",
+		"tel": "(022)24210936",
+		"ty": 2,
+		"uid": "a3d2f658d7a0bf6d2cb908c4",
+		"view_type": 0,
+		"x": 1304824092,
+		"y": 471465609
+	},
+	{
+		"acc_flag": 0,
+		"addr": "天津市红桥区西青道58号欧亚达商业广场1层",
+		"address_norm": "[天津市(332)|CITY|1|NONE][红桥区(1868)|AREA|1|NONE][西青道()|ROAD|1|NONE]58号",
+		"alias": ["欧亚达商业广场(红桥店)",
+		"苏宁红桥欧亚达"],
+		"aoi": "芥园道;邵公庄",
+		"area": 1868,
+		"area_name": "天津市红桥区",
+		"biz_type": 0,
+		"brand_id": null,
+		"catalogID": 0,
+		"cla": [],
+		"click_flag": 0,
+		"detail": 1,
+		"diPointX": 1304233210,
+		"diPointY": 471778490,
+		"di_tag": "购物中心 购物",
+		"dis": -1,
+		"dist2route": 0,
+		"dist2start": 0,
+		"ext": {
+			"detail_info": {
+				"app_cross_rcmd": {
+					"is_rcmd": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "app",
+					"transfer": 1
+				},
+				"areaid": "1868",
+				"brand_list": [{
+					"bid_list": ["13838280802333016239",
+					"1261517515008245759"],
+					"brand_real": 1,
+					"brandname": "麦当劳",
+					"click": 22098,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=310916370,701037968&fm=58"
+				},
+				{
+					"bid_list": ["18166221459354188782",
+					"5914881626631235106"],
+					"brand_real": 1,
+					"brandname": "金权道",
+					"click": 21133,
+					"logo": ""
+				},
+				{
+					"bid_list": ["10608052054563789717"],
+					"brand_real": 1,
+					"brandname": "苏宁电器",
+					"click": 21071,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=3894115130,2921114801&fm=58"
+				},
+				{
+					"bid_list": ["1259760963578494975"],
+					"brand_real": 1,
+					"brandname": "恒信家私",
+					"click": 21006,
+					"logo": ""
+				},
+				{
+					"bid_list": ["14867992592164887503"],
+					"brand_real": 1,
+					"brandname": "游艺城",
+					"click": 21004,
+					"logo": ""
+				},
+				{
+					"bid_list": ["16474337429067025037"],
+					"brand_real": 1,
+					"brandname": "迪卡侬",
+					"click": 1352,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=3870340788,2308848323&fm=58"
+				}],
+				"comment_num": "3",
+				"description_flag": "",
+				"display_info_comment_label": {
+					"hotel": "",
+					"life": ""
+				},
+				"display_info_redu": "30642",
+				"environment_rating": "0",
+				"from_pds": "1",
+				"image": "http:\/\/hiphotos.baidu.com\/lbsugc\/pic\/item\/b03533fa828ba61ee0189c4b4934970a314e59db.jpg",
+				"image_from": "rengong",
+				"image_num": "14",
+				"indoor_prote": {
+					"buildingid": "7858173085100382561"
+				},
+				"link": [{
+					"cn_name": "大众点评",
+					"name": "dianping",
+					"src": "dianping",
+					"url": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/www.dianping.com\/shop\/15868047",
+					"url_mobilephone": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/m.dianping.com\/shop.aspx?pid=15868047"
+				}],
+				"mbc": {
+					"markv": "2",
+					"shopmall": {
+						"android": "9.1.7",
+						"content_url": "http:\/\/mbcapi.baidu.com\/mbc\/shopmall\/getShopMallInfo?type=poidetail&uid=4579377348a3d79af5c59c25",
+						"ios": "9.1.7",
+						"loc": "2|4,2|7",
+						"provider_txt": "百度地图倾情呈现",
+						"type": "mall",
+						"url": "http:\/\/client.map.baidu.com\/plugin\/ShoppingView\/ShoppingView"
+					}
+				},
+				"name": "欧亚达商业广场",
+				"nuomi_mengya": {
+					"10": 10,
+					"transfer": 1
+				},
+				"overall_rating": "4.4",
+				"phone": "(022)27731888",
+				"poi_address": "天津市红桥区西青道58号欧亚达商业广场1层",
+				"point": {
+					"x": 13042332.1,
+					"y": 4717784.9
+				},
+				"price": "0",
+				"service_rating": "0",
+				"shop_hours": "10:00-20:30",
+				"shop_hours_flag": 1,
+				"shopping_parking": {
+					"parking_fee": "首小时免费停放，之后4元\/小时",
+					"parking_type": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "shopping",
+					"transfer": 1
+				},
+				"status_label": "",
+				"std_tag": "购物;购物中心",
+				"tag": "购物中心",
+				"validate": 0,
+				"weighted_tag": "购物中心:10 购物:10"
+			},
+			"src_name": "shopping"
+		},
+		"ext_display": {
+			"display_info": {
+				"catalog_fields": null,
+				"impression_tag": {
+					"hotel": "",
+					"life": ""
+				},
+				"redu": "30642",
+				"source_map": [],
+				"src_name": "display_info"
+			}
+		},
+		"ext_type": 4,
+		"f_flag": 8,
+		"father_son": 0,
+		"flag_type": "65",
+		"geo": "1|13042332.10,4717784.90;13042332.10,4717784.90|13042332.10,4717784.90;",
+		"geo_type": 2,
+		"indoor_pano": "",
+		"indoor_parent_uid": "7858173085100382561",
+		"ismodified": 0,
+		"name": "欧亚达商业广场",
+		"navi_update_time": 1499632994,
+		"navi_x": "13042222.627995",
+		"navi_y": "4717761.666365",
+		"new_catalog_id": "030100",
+		"origin_id": {
+			"lbc_uid": "17531112537957421823"
+		},
+		"pano": 1,
+		"poiType": 0,
+		"poi_click_num": 0,
+		"poi_profile": 0,
+		"primary_uid": "7858173085100382561",
+		"prio_flag": 32,
+		"route_flag": 0,
+		"show_tag": [],
+		"status": 1,
+		"std_tag": "购物;购物中心",
+		"storage_src": "api",
+		"street_id": "4579377348a3d79af5c59c25",
+		"tag": "购物中心 购物",
+		"tel": "(022)27731888",
+		"ty": 2,
+		"uid": "4579377348a3d79af5c59c25",
+		"view_type": 0,
+		"x": 1304233210,
+		"y": 471778490
+	},
+	{
+		"acc_flag": 0,
+		"addr": "天津市南开区东马路138号",
+		"address_norm": "[天津市(332)|CITY|1|NONE][南开区(2482)|AREA|1|NONE][东马路()|ROAD|1|NONE]138号",
+		"alias": [" ",
+		"天津新世界百货(新安店)",
+		"天津新世界百货新安店",
+		"新世界百货"],
+		"aoi": "老城厢;古文化街",
+		"area": 2482,
+		"area_name": "天津市南开区",
+		"biz_type": 0,
+		"brand_id": {
+			"id": "544",
+			"name": "新世界百货"
+		},
+		"catalogID": 13,
+		"cla": [[13,
+		"餐饮"]],
+		"click_flag": 0,
+		"detail": 1,
+		"diPointX": 1304634324,
+		"diPointY": 471540843,
+		"di_tag": "购物中心 购物",
+		"dis": -1,
+		"dist2route": 0,
+		"dist2start": 0,
+		"ext": {
+			"detail_info": {
+				"app_cross_rcmd": {
+					"is_rcmd": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "app",
+					"transfer": 1
+				},
+				"areaid": "2482",
+				"brand_list": [{
+					"bid_list": ["6712900397682871963"],
+					"brand_real": 1,
+					"brandname": "G2000",
+					"click": 21819,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=40815027,1854628235&fm=58"
+				},
+				{
+					"bid_list": ["10318111939981871644"],
+					"brand_real": 1,
+					"brandname": "金权道",
+					"click": 21382,
+					"logo": ""
+				},
+				{
+					"bid_list": ["14317678148140070506"],
+					"brand_real": 1,
+					"brandname": "新辣道梭边鱼",
+					"click": 21133,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=323537969,3667022856&fm=22"
+				},
+				{
+					"bid_list": ["16743318982298740678"],
+					"brand_real": 1,
+					"brandname": "太平鸟",
+					"click": 21013,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=330554619,1355493977&fm=58"
+				},
+				{
+					"bid_list": ["5648526881391014246"],
+					"brand_real": 1,
+					"brandname": "阿迪达斯",
+					"click": 21012,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=1735986554,825405314&fm=22"
+				},
+				{
+					"bid_list": ["1259433828804460543"],
+					"brand_real": 1,
+					"brandname": "KAVON",
+					"click": 21011,
+					"logo": ""
+				}],
+				"comment_num": "21",
+				"description_flag": 1,
+				"display_info_comment_label": {
+					"hotel": "",
+					"life": ""
+				},
+				"display_info_redu": "31835",
+				"environment_rating": "3.0",
+				"from_pds": "1",
+				"image": "http:\/\/hiphotos.baidu.com\/lbsugc\/pic\/item\/4b90f603738da977a679d34fb851f8198618e304.jpg",
+				"image_from": "rengong",
+				"image_num": "23",
+				"indoor_prote": {
+					"buildingid": "1263806706807209983",
+					"taginfo": [{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "运动服装"
+					},
+					{
+						"propte_num": 4,
+						"shop_num": 11,
+						"tag": "快餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 6,
+						"tag": "家具家居"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 30,
+						"tag": "男装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "游乐设施"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 6,
+						"tag": "中式快餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "游乐游艺"
+					},
+					{
+						"propte_num": 6,
+						"shop_num": 22,
+						"tag": "餐饮"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 53,
+						"tag": "女装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "小家电"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 7,
+						"tag": "钟表"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "甜点冷饮"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "钻石"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "翡翠"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 3,
+						"tag": "火锅"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 7,
+						"tag": "美容"
+					},
+					{
+						"propte_num": 5,
+						"shop_num": 191,
+						"tag": "服饰鞋帽"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 11,
+						"tag": "生活服务"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "美甲"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 5,
+						"tag": "西式快餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "香水"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "童鞋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "文化办公"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 7,
+						"tag": "钟表眼镜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 7,
+						"tag": "美发"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 30,
+						"tag": "化妆品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "家用电器"
+					},
+					{
+						"propte_num": 5,
+						"shop_num": 35,
+						"tag": "女鞋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "黄金饰品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 20,
+						"tag": "个人护理"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "手表"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "工艺礼品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 7,
+						"tag": "美容美发按摩"
+					},
+					{
+						"propte_num": 2,
+						"shop_num": 4,
+						"tag": "中餐"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 9,
+						"tag": "男鞋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "茶酒"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "箱包皮具"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "数码产品"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 7,
+						"tag": "彩妆"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "休闲娱乐"
+					},
+					{
+						"propte_num": 1,
+						"shop_num": 21,
+						"tag": "金银珠宝"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 2,
+						"tag": "手袋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "咖啡厅"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 7,
+						"tag": "按摩"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 3,
+						"tag": "母婴儿童"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "珍珠"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "KTV"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 1,
+						"tag": "休闲鞋"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "箱包"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 25,
+						"tag": "家居"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 7,
+						"tag": "眼镜"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 17,
+						"tag": "童装"
+					},
+					{
+						"propte_num": 0,
+						"shop_num": 5,
+						"tag": "皮具"
+					}]
+				},
+				"link": [{
+					"cn_name": "大众点评",
+					"name": "dianping",
+					"src": "dianping",
+					"url": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/www.dianping.com\/shop\/59733760",
+					"url_mobilephone": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/m.dianping.com\/shop.aspx?pid=59733760"
+				}],
+				"mbc": {
+					"markv": "2",
+					"poi_entrances": {
+						"entrances": [{
+							"bid": "17993809041855348735",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "新世界百货(新安店)东门",
+							"poi_pointx": "13046415.59",
+							"poi_pointy": "4715359.51"
+						},
+						{
+							"bid": "4894163864082332659",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "天津新世界百货新安店-北三门",
+							"poi_pointx": "13046412.08",
+							"poi_pointy": "4715478.28"
+						},
+						{
+							"bid": "6044243998838004962",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "天津新世界百货新安店-北二门",
+							"poi_pointx": "13046330.06",
+							"poi_pointy": "4715476.19"
+						},
+						{
+							"bid": "6569580091203226855",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "天津新世界百货新安店-东一门",
+							"poi_pointx": "13046412.38",
+							"poi_pointy": "4715392.64"
+						},
+						{
+							"bid": "7077226014941860268",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "天津新世界百货新安店-北一门",
+							"poi_pointx": "13046285.76",
+							"poi_pointy": "4715474.57"
+						},
+						{
+							"bid": "9778347952685898961",
+							"entrance_enable": "true",
+							"exit_enable": "true",
+							"floor": "F1",
+							"name": "新世界百货(新安店)南门",
+							"poi_pointx": "13046297.48",
+							"poi_pointy": "4715342.87"
+						}],
+						"parent_bid": 1263806706807209983,
+						"type": "mall"
+					},
+					"shopmall": {
+						"android": "9.1.7",
+						"content_url": "http:\/\/mbcapi.baidu.com\/mbc\/shopmall\/getShopMallInfo?type=poidetail&uid=b3aa435dbaec7e12147643f1",
+						"ios": "9.1.7",
+						"loc": "2|4,2|7",
+						"provider_txt": "百度地图倾情呈现",
+						"type": "mall",
+						"url": "http:\/\/client.map.baidu.com\/plugin\/ShoppingView\/ShoppingView"
+					}
+				},
+				"name": "新世界百货(新安店)",
+				"nuomi_mengya": {
+					"10": 10,
+					"featured_menus": [{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "酱肉包",
+						"price": 0,
+						"rec_num": "820560"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "杏鲍菇",
+						"price": 0,
+						"rec_num": "795240"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "蓝莓山药",
+						"price": 0,
+						"rec_num": "602010"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "酒酿元宵",
+						"price": 0,
+						"rec_num": "583170"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "裙带丝",
+						"price": 0,
+						"rec_num": "331230"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "风味烤肠",
+						"price": 0,
+						"rec_num": "331200"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "红油豆腐",
+						"price": 0,
+						"rec_num": "331170"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "合子",
+						"price": 0,
+						"rec_num": "331140"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "熘肝尖",
+						"price": 0,
+						"rec_num": "331110"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "玉米炒饭",
+						"price": 0,
+						"rec_num": "331080"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "黑米饼",
+						"price": 0,
+						"rec_num": "331050"
+					},
+					{
+						"boss_recom": "",
+						"desc": "",
+						"editor_recom": "",
+						"imgs": "",
+						"name": "鸡蛋羹",
+						"price": 0,
+						"rec_num": "179460"
+					}],
+					"firm_id": "3702096",
+					"oid": "3702096",
+					"src": "catering",
+					"transfer": 1,
+					"update_time": "2017-04-10 17:35:06"
+				},
+				"overall_rating": "4.8",
+				"phone": "(022)58391200,(022)87341858",
+				"poi_address": "天津市南开区东马路138号",
+				"point": {
+					"x": 13046343.24,
+					"y": 4715408.43
+				},
+				"price": "351.0",
+				"service_rating": "3.0",
+				"shop_hours": "周一-周四：10:00-22:00 周五-周日：09:30-22:00",
+				"shop_hours_flag": 1,
+				"shopping_parking": {
+					"parking_fee": "小型车辆6元\/小时，10元\/次，超过8小时收费20元",
+					"parking_type": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "shopping",
+					"transfer": 1
+				},
+				"status_label": "",
+				"std_tag": "购物;购物中心",
+				"tag": "购物中心",
+				"validate": 0,
+				"weighted_tag": "购物中心:10 购物:10"
+			},
+			"src_name": "shopping"
+		},
+		"ext_display": {
+			"display_info": {
+				"catalog_fields": null,
+				"impression_tag": {
+					"hotel": "",
+					"life": ""
+				},
+				"redu": "31835",
+				"source_map": [],
+				"src_name": "display_info"
+			}
+		},
+		"ext_type": 4,
+		"f_flag": 12,
+		"father_son": 0,
+		"flag_type": "65",
+		"geo": "1|13046343.24,4715408.43;13046343.24,4715408.43|13046343.24,4715408.43;",
+		"geo_type": 2,
+		"indoor_pano": "",
+		"indoor_parent_uid": "1263806706807209983",
+		"ismodified": 0,
+		"name": "新世界百货(新安店)",
+		"navi_update_time": 1499633349,
+		"navi_x": "13046407.7",
+		"navi_y": "4715520.8",
+		"new_catalog_id": "030100",
+		"origin_id": {
+			"lbc_uid": "18310034367304636391"
+		},
+		"pano": 1,
+		"poiType": 0,
+		"poi_click_num": 0,
+		"poi_profile": 0,
+		"primary_uid": "1263806706807209983",
+		"prio_flag": 32,
+		"route_flag": 0,
+		"show_tag": [],
+		"status": 1,
+		"std_tag": "购物;购物中心",
+		"storage_src": "api",
+		"street_id": "b3aa435dbaec7e12147643f1",
+		"tag": "购物中心 购物",
+		"tel": "(022)58391200,(022)87341858",
+		"ty": 2,
+		"uid": "b3aa435dbaec7e12147643f1",
+		"view_type": 0,
+		"x": 1304634324,
+		"y": 471540843,
+		"zip": "300090"
+	},
+	{
+		"acc_flag": 0,
+		"addr": "天津市南开区南马路1618号",
+		"address_norm": "[天津市(332)|CITY|1|NONE][南开区(2482)|AREA|1|NONE][南马路()|ROAD|1|NONE]1618号",
+		"aoi": "三马路;南开公园",
+		"area": 2482,
+		"area_name": "天津市南开区",
+		"biz_type": 0,
+		"brand_id": null,
+		"catalogID": 24,
+		"cla": [[24,
+		"商务大厦"]],
+		"click_flag": 0,
+		"detail": 1,
+		"diPointX": 1304452444,
+		"diPointY": 471508953,
+		"di_tag": "购物中心 购物",
+		"dis": -1,
+		"dist2route": 0,
+		"dist2start": 0,
+		"ext": {
+			"detail_info": {
+				"app_cross_rcmd": {
+					"is_rcmd": 1,
+					"src_type": "wanneng_touchuan",
+					"sub_src": "app",
+					"transfer": 1
+				},
+				"areaid": "2482",
+				"brand_list": [{
+					"bid_list": ["13433640697851312693"],
+					"brand_real": 1,
+					"brandname": "星巴克",
+					"click": 21208,
+					"logo": "http:\/\/t11.baidu.com\/it\/u=2054444227,187737141&fm=58"
+				},
+				{
+					"bid_list": ["6731928496196978190"],
+					"brand_real": 1,
+					"brandname": "幸福蓝海国际影城",
+					"click": 21166,
+					"logo": ""
+				},
+				{
+					"bid_list": ["11972496891655819320"],
+					"brand_real": 1,
+					"brandname": "和福顺焖锅",
+					"click": 21088,
+					"logo": ""
+				},
+				{
+					"bid_list": ["116352524043014387"],
+					"brand_real": 1,
+					"brandname": "GXG",
+					"click": 21004,
+					"logo": "http:\/\/t10.baidu.com\/it\/u=2609660895,2668509363&fm=58"
+				},
+				{
+					"bid_list": ["6827681764121956697"],
+					"brand_real": 1,
+					"brandname": "佐丹奴",
+					"click": 21002,
+					"logo": "http:\/\/t12.baidu.com\/it\/u=3144009071,1889286959&fm=58"
+				},
+				{
+					"bid_list": ["13318068849059166431"],
+					"brand_real": 1,
+					"brandname": "好声音KTV",
+					"click": 20057,
+					"logo": ""
+				}],
+				"comment_num": "209",
+				"description_flag": "",
+				"display_info_comment_label": {
+					"hotel": "",
+					"life": ""
+				},
+				"display_info_redu": "29235",
+				"environment_rating": "4.2",
+				"from_pds": "1",
+				"guoke_geo": {
+					"geo": "",
+					"src_type": "wanneng_touchuan",
+					"sub_src": "guoke",
+					"transfer": 1
+				},
+				"image": "http:\/\/hiphotos.baidu.com\/lbsugc\/pic\/item\/e824b899a9014c08529dc0760f7b02087af4f4bb.jpg",
+				"image_from": "baidumap",
+				"image_num": "520",
+				"link": [{
+					"cn_name": "大众点评",
+					"name": "dianping",
+					"src": "dianping",
+					"url": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/www.dianping.com\/shop\/8021405",
+					"url_mobilephone": "http:\/\/map.baidu.com\/detail?qt=ur&url=http:\/\/m.dianping.com\/shop.aspx?pid=8021405"
+				}],
+				"mbc": {
+					"markv": "3"
+				},
+				"name": "天佑城",
+				"overall_rating": "4.1",
+				"phone": "(022)59388888",
+				"poi_address": "天津市南开区南马路1618号",
+				"point": {
+					"x": 13044524.44,
+					"y": 4715089.53
+				},
+				"price": "80.0",
+				"service_rating": "4.0",
+				"shop_hours": "10:00-21:30",
+				"shop_hours_flag": 1,
+				"status_label": "",
+				"std_tag": "购物;购物中心",
+				"tag": "购物中心",
+				"validate": 0,
+				"weighted_tag": "购物中心:10 购物:10"
+			},
+			"src_name": "shopping"
+		},
+		"ext_display": {
+			"display_info": {
+				"catalog_fields": null,
+				"impression_tag": {
+					"hotel": "",
+					"life": ""
+				},
+				"redu": "29235",
+				"source_map": [],
+				"src_name": "display_info"
+			}
+		},
+		"ext_type": 4,
+		"f_flag": 12,
+		"father_son": 0,
+		"flag_type": "64",
+		"geo": "1|13044524.44,4715089.53;13044524.44,4715089.53|13044524.44,4715089.53;",
+		"geo_type": 2,
+		"indoor_pano": "",
+		"ismodified": 0,
+		"name": "天佑城",
+		"navi_update_time": 1499833350,
+		"navi_x": "13044594.0451",
+		"navi_y": "4714962.82269",
+		"new_catalog_id": "030100",
+		"pano": 1,
+		"poiType": 0,
+		"poi_click_num": 0,
+		"poi_profile": 0,
+		"primary_uid": "7946532308357235785",
+		"prio_flag": 32,
+		"route_flag": 0,
+		"show_tag": [],
+		"status": 1,
+		"std_tag": "购物;购物中心",
+		"storage_src": "api",
+		"street_id": "a356601a856739a09122e052",
+		"tag": "购物中心 购物",
+		"tel": "(022)59388888",
+		"ty": 2,
+		"uid": "a356601a856739a09122e052",
+		"view_type": 0,
+		"x": 1304452444,
+		"y": 471508953
+	}],
+	"current_city": {
+		"code": 332,
+		"geo": "1|13047444.58,4707506.67;13047444.58,4707506.67|13047444.58,4707506.67;",
+		"level": 12,
+		"name": "天津市",
+		"sup": 1,
+		"sup_bus": 1,
+		"sup_business_area": 1,
+		"sup_lukuang": 1,
+		"sup_subway": 1,
+		"type": 2,
+		"up_province_name": "天津市"
+	},
+	"hot_city": ["北京市|131",
+	"上海市|289",
+	"广州市|257",
+	"深圳市|340",
+	"成都市|75",
+	"天津市|332",
+	"南京市|315",
+	"杭州市|179",
+	"武汉市|218",
+	"重庆市|132"],
+	"result": {
+		"ad_display_type": 0,
+		"aladdin_res_num": 115,
+		"aladin_query_type": 0,
+		"area_profile": 0,
+		"business_bound": "",
+		"catalogID": 0,
+		"cmd_no": 2,
+		"count": 10,
+		"current_null": 0,
+		"data_security_filt_res": 0,
+		"db": 0,
+		"debug": 0,
+		"jump_back": 1,
+		"loc_attr": 0,
+		"op_gel": 1,
+		"page_num": 24,
+		"pattern_sign": 0,
+		"profile_uid": "2bfcb14cf5cb2cfcc23644f2",
+		"qid": "10243614644586706075",
+		"requery": "",
+		"res_bound": "(13035924,4690119;13112819,4721393)",
+		"res_bound_acc": "(0,0;0,0)",
+		"res_l": 10,
+		"res_x": "13074372.050000",
+		"res_y": "4705756.330000",
+		"result_show": 2,
+		"return_query": "商场",
+		"rp_strategy": 0,
+		"spec_dispnum": 0,
+		"spothot": false,
+		"sug_index": -1,
+		"time": 0,
+		"total": 2805,
+		"total_busline_num": 0,
+		"tp": 0,
+		"type": 36,
+		"wd": "商场",
+		"wd2": "",
+		"what": "商场",
+		"where": "",
+		"uii_type": "china_main",
+		"region": "0",
+		"uii_qt": "poi",
+		"login_debug": 0,
+		"lbs_forward": {
+			"param": [{
+				"d_brand_id": "0",
+				"d_query_attr_type": "2",
+				"d_tag_info_list": "购物,购物中心",
+				"query_show_click_flag": 0,
+				"sample_experiment": [],
+				"view_city": 332
+			}]
+		}
+	},
+	"damoce": null
+}
